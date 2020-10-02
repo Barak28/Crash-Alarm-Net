@@ -1,4 +1,4 @@
-# Crash-Alram-Net
+# Crash-Alarm-Net
 Private Project to detect car crash 
 
 Barak Or and Yaniv Hassidoff. 
